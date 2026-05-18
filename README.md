@@ -349,6 +349,3 @@ This project is inspired by:
 ## Arijeet Ghosh
 
 DevOps | Cloud | Kubernetes | AWS | Terraform | CI/CD Enthusiast
-
-GitHub:
-https://github.com/arijeetghosh-devopser/example/opentelemetry-demo
